@@ -27,8 +27,8 @@ The app fetches data from an API, an allows the users to manage books in the lib
 -npm
 
 ## Installation
--https://github.com/your-username/hand-on-practice.git
--Navigate to the repo cd hand-on-practice
+-Navigate to the repo https://github.com/your-username/hand-on-practice.git
+-cd hand-on-practice
 -Install dependancies npm install
 -Run the app npm start
 
